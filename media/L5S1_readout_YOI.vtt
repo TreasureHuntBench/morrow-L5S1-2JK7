@@ -1,0 +1,14 @@
+WEBVTT
+
+NOTE kind=series readout
+NOTE run_ref=L5S1-97KH
+
+00:00:00.000 --> 00:00:23.000
+series calibration
+
+00:00:23.000 --> 00:00:24.000
+repository=morrow-L5S1-RRAF
+document=media/L5S1_NJA_ledger.md
+
+00:00:24.000 --> 00:00:31.000
+archive readout complete
